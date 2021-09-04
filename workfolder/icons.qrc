@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon_imgs/customer.png</file>
+    <file>icon_imgs/icons8-jacket-50.png</file>
+    <file>icon_imgs/icons8-search-50.png</file>
+    <file>icon_imgs/icons8-notification-50.png</file>
+    <file>icon_imgs/bell-2-16.ico</file>
+    <file>icon_imgs/user-16.ico</file>
+    <file>icon_imgs/icons8-depot-64.png</file>
+    <file>icon_imgs/icons8-member-50.png</file>
+    <file>icon_imgs/icons8-product-64.png</file>
+    <file>icon_imgs/icons8-add-shopping-cart-50.png</file>
+    <file>icon_imgs/icons8-home.svg</file>
+    <file>icon_imgs/gnome_logout.ico</file>
+    <file>icon_imgs/exit.ico</file>
+    <file>icon_imgs/icons8-fast-cart-60.png</file>
+    <file>icon_imgs/icons8-mobile-order-128.png</file>
+    <file>icon_imgs/icons8-menu-50.png</file>
+  </qresource>
+</RCC>
